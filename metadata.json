@@ -1,0 +1,6 @@
+{
+  "name": "CampusVault — College Academic Resource Hub",
+  "description": "Centralized university academic resource hub for previous-year question papers, laboratory manuals, syllabi, and study materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
